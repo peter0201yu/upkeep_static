@@ -3,7 +3,7 @@ baseurl: ""
 
 # Site settings
 title: Upkeep Care
-email: peter@upkeep-care.org
+email: brobertsonagp@gmail.com
 description: "Welcome to Upkeep Care, where you find out about the resources for old adults by talking to an AI!"
 
 # Team names, titles and social links
@@ -32,6 +32,17 @@ people:
 
 - name: Diana Petersen
   pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Diana Petersen Again
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
