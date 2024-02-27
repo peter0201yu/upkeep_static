@@ -59,3 +59,7 @@ body {
     margin: 30px auto; /* Center the image */
     display: block; /* Makes image display properly */
 }
+
+.navbar-fixed-top.navbar-shrink { /* The class added when the header shrinks */
+    background-color: #d2ddd8; 
+}
