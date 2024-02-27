@@ -1,3 +1,61 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 {{ content }}
+/* Overall Site Styling */
+body {
+    font-family: 'Open Sans', sans-serif; /* Clean and highly readable font */
+    font-size: 16px; /* Default font size for comfortable reading */
+    line-height: 1.6; /* Generous line spacing for easy scanning */
+    color: #333; /* Dark gray text on a light background */
+    background-color: #f8f8f8; /* Soft, off-white background */
+}
+
+/* Navigation Styling */
+.navbar {
+    background-color: #fff; /* Simple white background */
+    padding: 20px 0;  /* More padding  for easier touch interactions */
+    border-bottom: 1px solid #ddd; /* Subtle divider line */
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2980b9; /* A calming blue color */
+}
+
+.navbar-nav li a {
+    font-size: 18px; 
+    margin: 0 25px; /* Significant spacing between links */
+    color: #555; /* Softer than pure black for navigation text */
+}
+
+/* Header/Intro Styling */
+.intro-heading {
+    font-size: 40px; 
+    font-weight: 600;  /* Slightly bolder heading */
+    color: #333;
+    margin-bottom: 10px; 
+}
+
+.intro-description {
+    font-size: 20px; 
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #2980b9; /* Same blue as the logo */
+    color: #fff;
+    font-size: 20px;
+    padding: 15px 35px; 
+    border: none;
+    border-radius: 5px; 
+}
+
+/* Additional Considerations */
+.picture-box img {
+    max-width: 80%; /* Limit image size for better layout balance */
+    margin: 30px auto; /* Center the image */
+    display: block; /* Makes image display properly */
+}
