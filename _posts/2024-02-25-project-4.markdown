@@ -1,0 +1,11 @@
+---
+title: Commission on Women, Children, Seniors, Equity & Opportunity
+subtitle: CWCSEO
+layout: default
+modal-id: 4
+date: 2024-02-25
+img: cwcseo-logo.png
+thumbnail: cwcseo-logo.png
+alt: image-alt
+description: We are an agency of the legislature that focuses its efforts on issues affecting underrepresented populations.
+---

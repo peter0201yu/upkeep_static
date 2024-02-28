@@ -1,0 +1,11 @@
+---
+title: CT Deparment of Social Services
+subtitle: 
+layout: default
+modal-id: 3
+date: 2024-02-25
+img: ctdss-logo.png
+thumbnail: ctdss-logo.png
+alt: image-alt
+description: The Connecticut Department of Social Services offers field office locations throughout the state, and provides a broad range of services for health and home care, food and nutrition, children, family and older adults, financial and employment, and other programs to live successfully in the community.
+---

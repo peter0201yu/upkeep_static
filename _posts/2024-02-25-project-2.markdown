@@ -1,0 +1,11 @@
+---
+title: Husky Health
+subtitle: Connecticut's Medicaid Program
+layout: default
+modal-id: 2
+date: 2024-02-25
+img: husky-logo.png
+thumbnail: husky-logo.png
+alt: image-alt
+description: In Connecticut, HUSKY Health encompasses Medicaid and the Children’s Health Insurance Program. HUSKY Health provides a comprehensive health care benefit package, including preventive care, primary care and specialist visits, hospital care, behavioral health services, dental services, and prescription medications.
+---

@@ -1,0 +1,11 @@
+---
+title: State Unit on Aging
+subtitle: Department of Aging and Disability Services
+layout: default
+modal-id: 6
+date: 2024-02-25
+img: ads-logo.png
+thumbnail: ads-logo.png
+alt: image-alt
+description: The State Unit on Aging ensures that Connecticut’s elders have access to the supportive services necessary to live with dignity, security, and independence.  The unit is responsible for planning, developing, and administering a comprehensive and integrated service delivery system for older persons in Connecticut.
+---

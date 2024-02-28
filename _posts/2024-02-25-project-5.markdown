@@ -1,0 +1,11 @@
+---
+title: United Way 2-1-1 Connecticut
+subtitle: 24/7 hotline
+layout: default
+modal-id: 6
+date: 2024-02-25
+img: 211-logo.png
+thumbnail: 211-logo.png
+alt: image-alt
+description: 2-1-1 is your one-stop connection to the Connecticut local services you need, from utility assistance, food, housing, child care, after school programs, elder care, crisis intervention and much more. 2-1-1 is always ready to assist you find the help you need. Dial 2-1-1 or search online.
+---

@@ -7,8 +7,5 @@ date: 2024-02-25
 img: aaa-logos.png
 thumbnail: aaa-logos.png
 alt: image-alt
-project-date: April 2024
-client: Start Bootstrap
-category: Web Development
 description: Area Agencies on Aging are private, nonprofit planning agencies, each guided by its own Board of Directors and Advisorty Council.
 ---
