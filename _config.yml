@@ -8,20 +8,9 @@ description: "Welcome to Upkeep Care, where you find out about the resources for
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Kiley Pratt
+  pic: kiley.png
+  position: Head of Technology
   social:
     - title: twitter
       url: #
@@ -30,20 +19,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Blake Robertson
+  pic: blake.jpeg
+  position: Head of Business
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
-- name: Diana Petersen Again
-  pic: 3
-  position: Lead Developer
+- name: Larissa Chia
+  pic: larissa.png
+  position: Head of Research and Operations
   social:
     - title: twitter
       url: #
