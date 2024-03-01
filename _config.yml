@@ -12,52 +12,39 @@ people:
   pic: kiley.png
   position: Head of Technology
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/kiley-pratt/
 
 - name: Blake Robertson
   pic: blake.jpeg
   position: Head of Business
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/blake-robertson/
 
 - name: Larissa Chia
   pic: larissa.png
   position: Head of Research and Operations
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/larissa-chia-yx/
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: New Haven, 06520
 
 # Build settings
 markdown: kramdown

@@ -1,11 +1,11 @@
 ---
-title: Area Agencies on Aging
-subtitle: Across Connecticut
+title: Area Agency on Aging
+subtitle: North Central Connecticut
 layout: default
 modal-id: 1
 date: 2024-02-25
-img: aaa-logos.png
-thumbnail: aaa-logos.png
+img: ncaaa-logo.png
+thumbnail: ncaaa-logo.png
 alt: image-alt
-description: Area Agencies on Aging are private, nonprofit planning agencies, each guided by its own Board of Directors and Advisorty Council.
+description: Area Agencies on Aging (AAA) are private, nonprofit planning agencies, each guided by its own Board of Directors and Advisorty Council. We are in close contact with the AAA of north central Connecticut.
 ---

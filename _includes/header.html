@@ -9,7 +9,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+                <!-- <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a> -->
+                <a class="page-scroll" href="#page-top">
+                    <img class="picture navbar-brand" src="/img/upkeep-logo.png" alt="Upkeep Care">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -24,9 +27,9 @@
                     <li>
                         <a class="page-scroll" href="#portfolio">Partners</a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a class="page-scroll" href="#about">About</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
                     </li>
@@ -41,50 +44,19 @@
     </nav>
 
     <!-- Header -->
-    <header class="header-banner"> 
+    <header> 
         <div class="container"> 
             <div class="row"> 
                 <div class="col-md-6 intro-text"> 
                     <h1 class="intro-heading">Upkeep: Giving Caregivers Time for What Matters</h1>
                     <p class="intro-description">AI-powered tools to streamline finding benefits and resources, so you can focus on your loved ones.</p>
-                    <a href="#services" class="page-scroll btn btn-xl">Get Started Today</a> </div>
+                    <a href="#services" class="page-scroll btn btn-xl">Learn More</a> </div>
                 <div class="col-md-6 picture-box"> 
-                    <img class="picture" src="/img/Hifi-Dashboard.png" alt="Upkeep Care Dashboard Example">
+                    <img class="picture landing-picture" src="/img/Hifi-Dashboard.png" alt="Upkeep Care Dashboard Example">
                 </div>
             </div>
         </div>
     </header>
-    <style>
-        .header-banner {
-            background-color: #d2ddd8; 
-            padding: 80px 0; 
-        }
-
-        .intro-heading {
-            font-size: 36px;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 15px;
-            text-transform: capitalize; 
-        }
-
-        .btn { 
-            background-color: #4b7663; 
-            color: #fff;
-            font-size: 20px;
-            padding: 15px 35px; 
-            border: none;
-            border-radius: 5px; 
-        }
-
-        .picture-box {
-            display: flex;     
-            align-items: center; 
-            justify-content: center; 
-            height: 800px;     
-        }
-
-    </style>
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
