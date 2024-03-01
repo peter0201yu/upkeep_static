@@ -63,3 +63,7 @@ body {
 .navbar-fixed-top.navbar-shrink { /* The class added when the header shrinks */
     background-color: #d2ddd8; 
 }
+
+.form-control {
+    color: #555
+}
