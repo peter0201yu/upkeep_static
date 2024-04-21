@@ -4,10 +4,17 @@ baseurl: ""
 # Site settings
 title: Upkeep Care
 email: brobertsonagp@gmail.com
-description: "Welcome to Upkeep Care, where you find out about the resources for old adults by talking to an AI!"
+description: "Welcome to Upkeep Care!"
 
 # Team names, titles and social links
 people:
+- name: Wendy Jiang
+  pic: wendy.jpeg
+  position: Head of Partnerships
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/wendy-jiang-514a62103/
+
 - name: Kiley Pratt
   pic: kiley.png
   position: Head of Product
@@ -21,13 +28,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/blake-robertson/
-
-- name: Wendy Jiang
-  pic: wendy.jpeg
-  position: Head of Partnership
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/wendy-jiang-514a62103/
 
 - name: Peter Yu
   pic: peter.jpeg
